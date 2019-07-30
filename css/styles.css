@@ -1,0 +1,8 @@
+form {
+  border: 1px solid grey;
+}
+
+div.container {
+  display: flex;
+  flex-direction: column;
+}
